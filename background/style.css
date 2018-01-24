@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+	padding:20px;
+	background-color: lightblue;
+}
+.background{
+	float:left;
+	width:500px;
+	height: 300px;
+	border: 4px solid green;
+	background-image: url(../img/a.jpeg);
+}
+.repeat{background-repeat: repeat;}
+.no-repeat{background-repeat: no-repeat;}
+.repeatx{background-repeat: repeat-x;}
+.repeaty{background-repeat: repeat-y;}
